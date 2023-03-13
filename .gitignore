@@ -41,7 +41,8 @@
 *.su
 *.idb
 *.pdb
-
+*.gdbinit
+*.lldbinit
 # Kernel Module Compile Results
 *.mod*
 *.cmd
@@ -53,3 +54,6 @@ dkms.conf
 
 # cash file from MacOs
 .DS_Store
+
+# vscode
+*.vscode
